@@ -1,0 +1,58 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "a55d7f83aa26f1007047b9b427fd6bb3",
+    "entities": [
+      {
+        "tableName": "AppItem",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`pkgName` TEXT NOT NULL, `app_name` TEXT NOT NULL, `key_number` TEXT NOT NULL, `priority` INTEGER NOT NULL, `flag` INTEGER NOT NULL, PRIMARY KEY(`pkgName`))",
+        "fields": [
+          {
+            "fieldPath": "pkgName",
+            "columnName": "pkgName",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "appName",
+            "columnName": "app_name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "keyNumber",
+            "columnName": "key_number",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "priority",
+            "columnName": "priority",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "flag",
+            "columnName": "flag",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "pkgName"
+          ],
+          "autoGenerate": false
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'a55d7f83aa26f1007047b9b427fd6bb3')"
+    ]
+  }
+}

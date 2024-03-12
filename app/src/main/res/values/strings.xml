@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">找应用</string>
+    <string name="k_2">abc\n2</string>
+    <string name="k_3">def\n3</string>
+    <string name="k_4">ghi\n4</string>
+    <string name="k_5">jkl\n5</string>
+    <string name="k_6">mno\n6</string>
+    <string name="k_7">pqrs\n7</string>
+    <string name="k_8">tuv\n8</string>
+    <string name="k_9">wxyz\n9</string>
+    <string name="k_0">清空</string>
+    <string name="k_1">⚙\n01</string>
+    <string name="k_star">*</string>
+    <string name="k_well">#</string>
+    <string name="tv_open_app_fail">启动失败，该应用可能已经被卸载</string>
+</resources>
