@@ -14,7 +14,7 @@
 
 ### 下载
 
-[从github下载>>](https://github.com/zhujiaming/T9AppFinder/blob/main/app/release/T9-release.apk)
+[从github下载>>](https://github.com/zhujiaming/T9AppFinder/releases)
 
 或者扫码
 
