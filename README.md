@@ -1,3 +1,12 @@
+### 下载
+
+[Releases >>](https://github.com/zhujiaming/T9AppFinder/releases)
+
+或者扫码
+
+![](/res/dc.png)
+
+
 ### T9找应用
 
 超简洁的安卓上的T9应用搜索效率工具。
@@ -10,15 +19,6 @@
 - 实验性便捷功能
 
 - 非正式版本，可能存在bug，设计也不美观
-
-
-### 下载
-
-[从github下载>>](https://github.com/zhujiaming/T9AppFinder/releases)
-
-或者扫码
-
-![](/res/dc.png)
 
 
 ### 使用截图
