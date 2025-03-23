@@ -2,6 +2,12 @@
 
 [Releases >>](https://github.com/zhujiaming/T9AppFinder/releases)
 
+### 新版本 2.0.66
+
+- 增加最近打开功能
+- 增加键盘搜索模式
+- 优化交互，修复bug
+
 或者扫码
 
 ![](/res/dc.png)
@@ -21,13 +27,10 @@
 - 非正式版本，可能存在bug，设计也不美观
 
 
-### 使用截图
+### 应用截图
 
 ![](/res/ss.png)
 
-----
-
-![](/res/sss.gif)
 
 ### 建议交流
 
