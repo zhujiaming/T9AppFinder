@@ -18,11 +18,11 @@ An extremely simple and efficient T9 app search tool for Android.
 
 Or scan the QR code
 
-<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/dc.png" width="120">
+<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/dc.png" width="140">
 
 ## App Screenshots
 
-<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/t9-zh.png" width="350">
+<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/t9-zh.png" width="280">
 
 ## Suggestions & Feedback
 

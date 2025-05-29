@@ -18,11 +18,11 @@
 
 或者扫码
 
-<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/dc.png" width="120">
+<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/dc.png" width="140">
 
 ## 应用截图
 
-<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/t9-zh.png" width="350">
+<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/t9-zh.png" width="280">
 
 ## 建议交流
 
