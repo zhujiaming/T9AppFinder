@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="key_height">60dp</dimen>
-    <dimen name="key_diviver_height">2dp</dimen>
-    <dimen name="key_diviver_width">2dp</dimen>
-</resources>
