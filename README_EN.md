@@ -1,31 +1,33 @@
-# T9找应用 Android App
+# T9 App Finder Android App
 
-## 介绍
+[中文](README.md)
 
-超简洁的安卓上的T9应用搜索效率工具。
+## Introduction
 
-- 启动轻且快
-- 快速搜索定位目标应用
-- 根据点击频次优先展示目标应用
-- 支持展示最近使用应用
-- 支持应用长按更多设置
+An extremely simple and efficient T9 app search tool for Android.
 
-## 下载
+- Lightweight and fast startup
+- Quickly search and locate target apps
+- Prioritize displaying apps based on click frequency
+- Support for showing recently used apps
+- Long press on apps for more settings
+
+## Download
 
 [Releases >>](https://github.com/zhujiaming/T9AppFinder/releases)
 
-或者扫码
+Or scan the QR code
 
-<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/dc.png" width="100">
+<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/dc.png" width="120">
 
-## 应用截图
+## App Screenshots
 
-<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/t9-en.png" width="150">
+<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/t9-zh.png" width="350">
 
-## 建议交流
+## Suggestions & Feedback
 
-开发初衷是帮助在自己手机中的几百个应用中快速找到想打开的应用。
+The original intention of development was to help quickly find the desired app among hundreds of apps on my own phone.
 
-自己一直在使用并不断完善，欢迎提出建议或问题，作者会抽时间更新。可以添加关注，也可以在github中提issue、或者加Q群：331906626。
+I have been using and continuously improving it myself. Suggestions or issues are welcome, and I will update the app as time allows. You can follow the project or submit issues on GitHub.
 
-如果对您有帮助可以 `star` 或推荐给他人。
+If you find it helpful, please consider giving it a `star` or recommending it to others.
