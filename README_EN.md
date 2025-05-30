@@ -22,7 +22,7 @@ Or scan the QR code
 
 ## App Screenshots
 
-<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/t9-zh.png" width="280">
+<img src="https://github.com/zhujiaming/T9AppFinder/raw/main/res/t9-en.png" width="280">
 
 ## Suggestions & Feedback
 
